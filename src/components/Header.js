@@ -12,7 +12,7 @@ function NavBar() {
                     <Nav style={{ fontSize: "30px", }} className="me-auto">
                         <Nav.Link href="/">Home</Nav.Link>
                         <Nav.Link href="/#workflows">Work Flows</Nav.Link>
-                        {/* <Nav.Link href="/contact">Contact</Nav.Link> */}
+                        <Nav.Link href="/contact">Contact</Nav.Link>
                         <Nav.Link href="https://reactflow.dev/">Refer</Nav.Link>
                     </Nav>
                 </Container>
