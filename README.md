@@ -17,6 +17,7 @@ Instructions for installing the project.
 To get started with this project, follow these steps:
 
 Clone the repository: `git clone https://github.com/rajeshds20/WorkFlow-Designer.git`
+Navigate to Project Directory `cd WorkFlow-Designer`
 Install the dependencies: `npm install`
 
 
