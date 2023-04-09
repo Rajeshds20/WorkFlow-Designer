@@ -1,10 +1,12 @@
 import React from "react";
 
 import "../css/contact.css"
+import Header from "../components/Header"
 
 export default function Contact() {
     return (
-        <div>
+        <>
+            <Header />
             <div class="about-section">
                 <h1>About </h1>
                 <p>I ama a React and Web Developer. I love Coding and Development</p>
@@ -26,6 +28,6 @@ export default function Contact() {
                     </div>
                 </div>
             </div>
-        </div >
+        </>
     );
 }
