@@ -1,6 +1,6 @@
 # Work FLow Designer
 
-This is a web application that can be used for designing and managing workflows. It is built using ReactJS and reactflow, and it also uses a mock API for data retreival.
+This is a web application that can be used for designing and managing workflows. It is built using ReactJS and reactflow, and it also uses a mock API for data retrieval.
 
 ## Table of Contents
 
